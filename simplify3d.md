@@ -171,7 +171,7 @@ La sección *Colocación automática* es donde tiene las opciones de cómo gener
 
 **MUY** importante es donde pone *Tipo de soporte: De la plataforma de construcción únicamente*.
 
-¿Qué significa esto? Que solo generará soportes desde la cama. O sea, imaginad que tenéis una pieza que es una letra F. El palito de abajo de la F necesita soporte, y el de arriba también. En este caso solo generaría soporte para el palito de abajo, o sea, desde la plataforma de construcción (o sea, la cama) únicamente. Dicho de otra forma, si necesitas un soporte que se cree desde la pieza para sujetar algo más arriba, no lo hace.
+¿Qué significa esto? Que solo generará soportes desde la cama. Imaginad que tenéis una pieza que es una letra F. El palito de abajo de la F necesita soporte, y el de arriba también. En este caso solo generaría soporte para el palito de abajo, o sea, desde la plataforma de construcción (la cama) únicamente. Dicho de otra forma, si necesitas un soporte que se cree desde la pieza para sujetar algo más arriba, no lo hace.
 
 Si queremos que haga esto último, necesitamos cambiar el tipo de soporte a *Normal*.
 
