@@ -8,11 +8,5 @@ Dado que es software gratuito y de código abierto lo podemos bajar desde su web
 
 La primera vez que iniciemos el programa nos saldrá un pequeña asistente para configurar inicialmente nuestra impresora, despues vendrá el ajuste fino.
 Pasos:
-![](http://imgur.com/s6fsDIs)
-![](http://imgur.com/dMvs16e)
-![](http://imgur.com/0zRL8vL)
-![](http://imgur.com/ayIhDf0)
-![](http://imgur.com/mChKiSC)
-![](http://imgur.com/AaGCpKJ)
-![](http://imgur.com/toUOzG2)
+
  
