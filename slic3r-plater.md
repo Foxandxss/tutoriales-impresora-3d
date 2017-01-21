@@ -17,9 +17,10 @@ Veamos algunas de sus funciones:
 
 **45º CCW y CW:** Giran la pieza cuarenta y cinco grados en sentido antihorario(CCW) y sentido horario (CW).
 
-**Scale: **Permite aumentar o disminuir la escala de la pieza, aparecerá un desplegable para introducir dicha escala en tanto por ciento.
+**Scale:** Permite aumentar o disminuir la escala de la pieza, aparecerá un desplegable para introducir dicha escala en tanto por ciento.
 
-**Split: **Permite separar una pieza formada por varias partes de forma individual, esto es útil cuando las piezas vienen en un único .STL y hay que separarlas para obtener una mejor impresión.
+**Split:** Permite separar una pieza formada por varias partes de forma individual, esto es útil cuando las piezas vienen en un único .STL y hay que separarlas para obtener una mejor impresión.
+
 **Cut:**Permite cortar la pieza a una determinada altura.
 
 **Settings:** Nos ofrece un cuadro de dialogo donde podremos ajustar la  altura de capa a una altura determinada del eje Z, seleccionar extrusor para imprimir la pieza entre otras cosas.
