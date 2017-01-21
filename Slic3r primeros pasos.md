@@ -1,4 +1,5 @@
-#Tutorial Slic3r(A fecha de escribir esto es la versión 1.2.9)
+#Tutorial Slic3r
+#####(A fecha de escribir este tutorial es la versión 1.2.9)
 
 ##Descarga e instalación:
 
