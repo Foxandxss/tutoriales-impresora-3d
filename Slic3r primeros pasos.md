@@ -7,7 +7,7 @@ Dado que es software gratuito y de código abierto lo podemos bajar desde su web
 
 ##Primer inicio del programa:
 
-La primera vez que iniciemos el programa nos saldrá un pequeña asistente para configurar inicialmente nuestra impresora, después vendrá el ajuste fino.
+La primera vez que iniciemos el programa nos saldrá un pequeño asistente para configurar inicialmente nuestra impresora, después vendrá el ajuste fino.
 Pasos:
 Lo primero  será elegir el "sabor" de nuestro G-code, en mi caso Marlin:
 ![](https://puu.sh/tr8q8/b8369b9251.png)
