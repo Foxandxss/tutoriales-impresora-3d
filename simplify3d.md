@@ -247,7 +247,7 @@ En scripts es donde cambiamos los gcode. Tenemos 5 secciones donde podemos escri
 * **Script de cambio de capa** - Si queremos que haga algo cada vez que cambia de capa. Vacío por defecto.
 * **Script de retracción** - Para que haga algo cada vez que hace retracción. Vacío por defecto.
 * **Script de cambio de cabezal** - Ni fruta idea.
-* **Script de finalización** - Aquí añadimos G-Code para apagar el extrusor, la cama, motores... Por defecto tiene buenos valores ya.
+* **Script de finalización** - Aquí añadimos G-Code para apagar el extrusor, la cama, motores... Aquí es buena idea mandar la X a home cuando termine de imprimir.
 
 ### Otro
 
