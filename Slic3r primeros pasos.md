@@ -21,6 +21,6 @@ Continuamos con la selección de la temperatura de extrusión:
 Y finalizamos con la temperatura de la cama caliente:
 ![](https://puu.sh/tr8vu/a7c3868fb9.png)
 
-**Todos estos parámetros son para realizar un primer ajuste de la impresión,posteriormente se podrán ir variando para afinar nuestras impresiones**
+**Todos estos parámetros son para realizar un primer ajuste de la impresión,posteriormente se podrán ir variando para afinar nuestras impresiones.**
 
  
